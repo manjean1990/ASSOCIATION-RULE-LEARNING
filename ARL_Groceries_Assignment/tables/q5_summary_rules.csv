@@ -1,0 +1,4 @@
+,antecedents_str,consequents_str,support,confidence,lift
+Highest confidence,"citrus fruit, root vegetables",other vegetables,0.010371123538383325,0.5862068965517241,3.0296084222733612
+Highest lift,"citrus fruit, other vegetables",root vegetables,0.010371123538383325,0.3591549295774648,3.295045459323103
+Highest support,other vegetables,whole milk,0.07483477376715811,0.38675775091960063,1.5136340948246207

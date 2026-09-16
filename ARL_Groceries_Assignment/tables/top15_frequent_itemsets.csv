@@ -1,0 +1,16 @@
+itemsets_str,support
+"other vegetables, whole milk",0.07483477376715811
+"rolls/buns, whole milk",0.05663446873411286
+"whole milk, yogurt",0.05602440264361973
+"root vegetables, whole milk",0.048906964921199794
+"other vegetables, root vegetables",0.047381799694966954
+"other vegetables, yogurt",0.04341637010676157
+"other vegetables, rolls/buns",0.042602948652770714
+"tropical fruit, whole milk",0.04229791560752415
+"soda, whole milk",0.040061006609049314
+"rolls/buns, soda",0.03833248601931876
+"other vegetables, tropical fruit",0.035892221657346214
+"rolls/buns, yogurt",0.03436705643111337
+"bottled water, whole milk",0.03436705643111337
+"pastry, whole milk",0.033248601931875954
+"other vegetables, soda",0.032740213523131674
